@@ -4,7 +4,7 @@ package storage
 import (
 	"fmt"
 
-	"github.com/yourusername/go-crud-api/models"
+	"github.com/sharmakashish/go-crud-api/models"
 )
 
 var todos []models.Todo

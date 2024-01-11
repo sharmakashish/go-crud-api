@@ -7,8 +7,8 @@ import (
 	"strconv"
 
 	"github.com/gorilla/mux"
-	"github.com/yourusername/go-crud-api/models"
-	"github.com/yourusername/go-crud-api/storage"
+	"github.com/sharmakashish/go-crud-api/models"
+	"github.com/sharmakashish/go-crud-api/storage"
 )
 
 func GetAllTodosHandler(w http.ResponseWriter, r *http.Request) {

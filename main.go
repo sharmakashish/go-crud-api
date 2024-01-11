@@ -7,7 +7,7 @@ import (
 	"net/http"
 
 	"github.com/gorilla/mux"
-	"github.com/yourusername/go-crud-api/api"
+	"github.com/sharmakashish/go-crud-api/api"
 )
 
 func main() {
